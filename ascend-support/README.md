@@ -8,6 +8,10 @@
 
 首先参考Qwen README下载官方模型到`/path/to/Qwen-7B-Chat`。
 
+
+
+
+
 ### 下载并启动镜像
 
 ```bash
